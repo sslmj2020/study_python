@@ -3,4 +3,4 @@
 B站视频链接：https://www.bilibili.com/video/BV1V741147QH?p=51
 希望对初学python的小伙伴们有所帮助
 使用 IDLE python3.8.2
-https://github.com/sslmj2020/study_prthon.git                                 
+                                 
